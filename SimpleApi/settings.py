@@ -39,7 +39,6 @@ INSTALLED_APPS = [
     'django.contrib.staticfiles',
     'hatchwaysapi',
     'rest_framework',
-    'background_task',
 ]
 
 MIDDLEWARE = [
