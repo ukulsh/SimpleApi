@@ -15,7 +15,6 @@ import requests
 
 from .models import  *
 from .serializers import *
-from .helper import *
 import os
 from django.core.paginator import Paginator
 from django.shortcuts import render
